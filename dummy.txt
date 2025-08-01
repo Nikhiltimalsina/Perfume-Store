@@ -1,2 +1,1 @@
-Initial dummy file
-// Dummy commit 2
+Start file
